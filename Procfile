@@ -1,0 +1,1 @@
+wprker: node bot.js 
